@@ -1,4 +1,4 @@
-# JSON Gerado contendo informações para contato
+# JSON contendo informações para contato
 
 # Gerado a partir de uma API Rest
 
